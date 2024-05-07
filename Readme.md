@@ -19,9 +19,3 @@
 3. screenshot.png
    > 1200x900px; 1200 Width  
    > Only png file is supported
-
-bash script to create files in wordpress theme:
-
-```bash
-$ touch .editorconfig .gitattributes .gitignore CHANGELOG.md LICENSE.md README.txt functions.php package.json screenshot.png style.css theme.json
-```
